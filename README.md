@@ -1,4 +1,5 @@
 # FreeIPCC-AiVoice
+大模型呼入机器人，自助建立工单，自助解决问题！
 呼入机器人，LLM，TTS，ASR，NLP，大模型，AI客服，自助建立工单，自助解决问题，全程录音，Large Language Model，inboud，Text To Speech, Automatic Speech Recognition，call in
 
 可对接主流大模型，企业私有大模型！！！
