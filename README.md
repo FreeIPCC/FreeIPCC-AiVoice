@@ -1,5 +1,5 @@
 # FreeIPCC-AiVoice AI语音处理
-呼入机器人对接大模型,呼出机器人对接大模型,LLM,TTS,ASR,NLP,RAG搜索模块，大模型，AI客服，自助建立工单，自助解决问题，全程录音，Langchain，Large Language Model，inboud，Text To Speech, Automatic Speech Recognition，call in，大模型呼入机器人，自助建立工单，自助解决问题!!!
+呼入机器人对接大模型,呼出机器人对接大模型,LLM,TTS,ASR,NLP,RAG搜索模块，大模型，AI客服，自助建立工单，自助解决问题，全程录音，Langchain，Large Language Model，inboud，Text To Speech, Automatic Speech Recognition，call in，大模型呼入机器人，自助建立工单，自助解决问题!
 
 可对接主流大模型，企业私有大模型！
 可对接常见TTS，ASR！
@@ -53,6 +53,7 @@
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/9e6b7a55-1e7e-45ce-b1e6-644b7da16d1b)
 
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
