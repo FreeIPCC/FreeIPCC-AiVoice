@@ -1,5 +1,5 @@
 # FreeIPCC-AiVoice AI语音处理
-呼入机器人对接大模型,呼出机器人对接大模型,LLM,TTS,ASR,NLP,RAG搜索模块，大模型，AI客服，自助建立工单，自助解决问题，全程录音，Langchain，Large Language Model，inboud，Text To Speech, Automatic Speech Recognition，call in，大模型呼入机器人，自助建立工单，自助解决问题!!!!
+呼入机器人对接大模型,呼出机器人对接大模型,LLM,TTS,ASR,NLP,RAG搜索模块，大模型，AI客服，自助建立工单，自助解决问题，全程录音，Langchain，Large Language Model，inboud，Text To Speech, Automatic Speech Recognition，call in，大模型呼入机器人，自助建立工单，自助解决问题!
 
 可对接主流大模型，企业私有大模型！
 可对接常见TTS，ASR！
@@ -12,7 +12,7 @@
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
-## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
 
 # 附：团队的开源呼叫中心系统FreeAICC（AI Call Center）的愿景与基础功能阐述
 愿景：
